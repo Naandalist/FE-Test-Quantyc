@@ -1,0 +1,57 @@
+body {
+  background-color: #f5f5f5;
+}
+
+.login-title {
+  text-align: center;
+  font-size: 2em;
+  /* margin-bottom: 20px; */
+}
+
+
+.login-form-container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+
+/* Mobile first */
+.grid-container {
+  display: grid;
+  height: 100vh;
+  place-items: center;
+}
+
+.login-form {
+  padding: 20px;
+}
+
+/* Larger screens */
+@media (min-width: 768px) {
+  .grid-container {
+    height: 70vh;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+  }
+  .login-form {
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
+    padding: 40px;
+  }
+}
+
+/* Extra large screens */
+@media (min-width: 1200px) {
+  .grid-container {
+    height: 50vh;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+  }
+  .login-form {
+    grid-column: 2 / 3;
+    grid-row: 1 / 2;
+    padding: 60px;
+  }
+}
+
