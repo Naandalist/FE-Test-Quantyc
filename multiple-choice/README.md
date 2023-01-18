@@ -8,7 +8,7 @@
 
     c.	< main > ❌
 
-    d.	< body > ❌
+    d.	< body > ✅ 
 
 
 2. Open a web page in a new window, which value is used?
