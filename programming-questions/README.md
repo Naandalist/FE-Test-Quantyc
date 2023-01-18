@@ -8,7 +8,7 @@
 
  - [x] Solution number 8: [how-to-center-div](https://github.com/Naandalist/FE-Test-Quantyc/tree/main/programming-questions/how-to-center-div)
 
- - [x] Solution number 9: [countdown-60s](https://github.com/Naandalist/FE-Test-Quantyc/tree/main/programming-questions/countdown-60s)
+ - [x] Solution number 9: [countdown-60s](https://github.com/Naandalist/FE-Test-Quantyc/blob/main/programming-questions/countdown-60s/src/App.js)
 
- - [x] Solution number 10: [simple-login](https://github.com/Naandalist/FE-Test-Quantyc/tree/main/programming-questions/simple-login)
+ - [x] Solution number 10: [simple-login](https://github.com/Naandalist/FE-Test-Quantyc/blob/main/programming-questions/simple-login/src/App.js)
 
